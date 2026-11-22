@@ -1,4 +1,4 @@
-with open("rosalind_subs.txt") as f:
+with open("samples/subs.txt") as f:
     seq = f.readline().strip()
     motif = f.readline().strip()
 
