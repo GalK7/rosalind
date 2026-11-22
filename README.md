@@ -12,3 +12,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | GC | Highest GC content in a FASTA file |
 | HAMM | Counting point mutations |
 | PROT | Translating RNA into protein |
+| SUBS | Finding a motif in DNA |

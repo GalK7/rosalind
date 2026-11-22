@@ -17,7 +17,7 @@ codon_table = {
     "GGU": "G", "GGC": "G", "GGA": "G", "GGG": "G",
 }
 
-with open("rosalind_prot.txt") as f:
+with open("samples/prot.txt") as f:
     seq = f.read().strip()
 
 prot = ""

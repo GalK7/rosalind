@@ -1,4 +1,4 @@
-with open("rosalind_hamm.txt") as f:
+with open("samples/hamm.txt") as f:
     s = f.readline().strip()
     t = f.readline().strip()
 

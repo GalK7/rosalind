@@ -1,4 +1,4 @@
-with open("rosalind_revc.txt") as f:
+with open("samples/revc.txt") as f:
     seq = f.read().strip()
 
 rev_seq = ""

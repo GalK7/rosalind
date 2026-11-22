@@ -1,4 +1,4 @@
-with open("rosalind_rna.txt") as f:
+with open("samples/rna.txt") as f:
     seq = f.read().strip()
 
 print(seq.replace("T","U"))

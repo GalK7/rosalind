@@ -1,6 +1,6 @@
 seqs={}
 
-with open("rosalind_gc.txt") as f:
+with open("samples/gc.txt") as f:
     for line in f:
         line = line.strip()
         if line.startswith(">"):
