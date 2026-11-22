@@ -13,3 +13,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | HAMM | Counting point mutations |
 | PROT | Translating RNA into protein |
 | SUBS | Finding a motif in DNA |
+| PRTM | Calculating protein mass |
