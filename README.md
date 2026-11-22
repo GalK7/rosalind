@@ -14,3 +14,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | PROT | Translating RNA into protein |
 | SUBS | Finding a motif in DNA |
 | PRTM | Calculating protein mass |
+| REVP | Locating restriction sites |
