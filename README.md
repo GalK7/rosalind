@@ -16,3 +16,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | PRTM | Calculating protein mass |
 | REVP | Locating restriction sites |
 | SPLC | RNA splicing |
+| ORF | Open reading frames |
