@@ -15,3 +15,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | SUBS | Finding a motif in DNA |
 | PRTM | Calculating protein mass |
 | REVP | Locating restriction sites |
+| SPLC | RNA splicing |
