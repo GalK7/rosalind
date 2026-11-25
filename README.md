@@ -18,3 +18,4 @@ Each problem has its own script (e.g. `gc.py`) and a sample input in `samples/`.
 | SPLC | RNA splicing |
 | ORF | Open reading frames |
 | GRPH | Overlap graphs |
+| LCSM | Finding a shared motif |
